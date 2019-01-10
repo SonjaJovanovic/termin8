@@ -1,0 +1,1 @@
+Klasa Test ispisuje Hello World
